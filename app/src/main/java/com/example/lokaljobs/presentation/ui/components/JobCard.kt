@@ -109,7 +109,7 @@ fun JobCard(
 
             // Vacancies
             Text(
-                text = "${job.vacancies ?: "0"} Vacancies",
+                text = "${job.vacancies ?: "0"} ",
                 color = Color.Gray,
                 fontSize = 14.sp
             )
