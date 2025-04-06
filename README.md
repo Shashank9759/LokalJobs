@@ -38,11 +38,13 @@ This project is a job application app built as part of an Android intern assignm
 
 ## Screenshots
 
-*(Include screenshots of your app here if available.)*
+<img src="https://github.com/user-attachments/assets/207834b7-5c75-48f4-abbc-be5cde3e5184" width="300"/>
+<img src="https://github.com/user-attachments/assets/158a441c-d037-4ac0-a609-b4537e3b47d5" width="300"/>
+<img src="https://github.com/user-attachments/assets/ea5f2522-db79-49c2-9e3c-96145cfd3877" width="300"/>
 
-## Video Walkthrough
 
-A video walkthrough of the app is available [here](https://yourvideolink.com).
+
+
 
 ## Getting Started
 
