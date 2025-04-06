@@ -129,7 +129,7 @@ fun JobDetailsScreen(
             )
             Spacer(Modifier.height(2.dp))
             Text(
-                text = "${job.vacancies} Vacancies",
+                text = "${job.vacancies} ",
                 fontSize = 14.sp,
                 color = Color.Gray
             )
