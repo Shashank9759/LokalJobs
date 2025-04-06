@@ -173,8 +173,8 @@ fun JobDetailsScreen(
             job.whatsappUrl?.let {
                 Button(
                     onClick = {
-                        val url = "https://wa.me/${it.filter { c -> c.isDigit() }}"
-                        context.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(url)))
+                        val uri = Uri.parse(it)
+                        context.startActivity(Intent(Intent.ACTION_VIEW, uri))
                     },
                     modifier = Modifier.fillMaxWidth(),
                     shape = RoundedCornerShape(8.dp),
